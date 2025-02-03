@@ -4127,15 +4127,15 @@ function Ts(t, e) {
     chatSessionKey: "sessionId",
     defaultLanguage: "en",
     showWelcomeScreen: !1,
-    initialMessages: ["Hola! 👋", "Mi nombre es Facu. Qué hacelga?"],
+    initialMessages: ["Hola! 👋", "Mi nombre es Facu. En qué puedo ayudarte?"],
     i18n: {
       en: {
         title: "Hola! 👋",
         subtitle: "Empieza el chat. Estoy 24/7.",
         footer: "",
-        getStarted: "New Conversation",
-        inputPlaceholder: "Type your question..",
-        closeButtonTooltip: "Close chat"
+        getStarted: "Nueva conversación",
+        inputPlaceholder: "Escribe tu pregunta..",
+        closeButtonTooltip: "Cerrar chat"
       }
     },
     theme: {}
